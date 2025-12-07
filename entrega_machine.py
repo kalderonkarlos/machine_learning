@@ -271,7 +271,7 @@ print('RMSE Random Forest (train): %0.3g' % np.sqrt(mse_train_rf))
 print('RMSE Random Forest (test) : %0.3g' % np.sqrt(mse_test_rf))
 
 
-# In[30]:
+# In[26]:
 
 
 # Celda 1 – Importación de librerías y configuración inicial
@@ -332,7 +332,7 @@ print('RMSE Random Forest (test) : %0.3g' % np.sqrt(mse_test_rf))
 # En esta celda entreno y evalúo el Random Forest definitivo y comparo su desempeño con el del modelo Lasso, verificando que Random Forest logra menor error en test.
 
 
-# In[31]:
+# In[27]:
 
 
 # CONCLUSIÓN
